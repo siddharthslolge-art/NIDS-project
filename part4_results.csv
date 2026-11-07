@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1
+Random Forest,0.7659,0.966,0.6103,0.748
+KNN (k=5),0.7706,0.9706,0.6157,0.7534
+PyTorch NN,0.7785,0.9707,0.6299,0.764

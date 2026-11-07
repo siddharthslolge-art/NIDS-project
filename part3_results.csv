@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1,TrainTime_s
+PyTorch Neural Network,0.9943,0.9934,0.9945,0.9939,21.5
